@@ -1,7 +1,7 @@
 # Basics-of-Recommendation-Systems
 This repository contains my implementation on Recommender Systems.
 
-The assignment covers:
+This covers:
 - Cosine similarity for users and items
 - User-based collaborative filtering
 - Item-based collaborative filtering
