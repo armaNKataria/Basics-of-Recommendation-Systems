@@ -1,2 +1,9 @@
 # Basics-of-Recommendation-Systems
-Recommender Systems: Cosine Similarity, Collaborative Filtering &amp; Matrix Factorization
+This repository contains my implementation on Recommender Systems.
+
+The assignment covers:
+- Cosine similarity for users and items
+- User-based collaborative filtering
+- Item-based collaborative filtering
+- Matrix factorization using gradient descent
+- Regularization for matrix factorization
